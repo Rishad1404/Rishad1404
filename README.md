@@ -1,5 +1,3 @@
-### Hi there 👋, Rishad Islam
-#### Design and Development
 ![Design and Development](https://i.ibb.co/z6DBPds/Modern-Futuristic-Gadget-Technology-Review-Channel-Youtube-Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishad1404&label=Profile%20views&color=0e75b6&style=flat" alt="rishad1404" /> </p>
