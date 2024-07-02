@@ -10,9 +10,9 @@ Hi there! I'm Rishad, a passionate junior front-end developer with a strong foun
 
 - 🌱 I’m currently learning **NextJS and other frameworks**
 
-- 💬 Ask me about **HTML, CSS, javascript, react**
+- 💬 Ask me about **HTML, CSS, Javascript & React**
 
-- 📫 How to reach me **rishadislam2019@gmail.com**
+- 📫 Reach out to me at  **rishadislam2019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
