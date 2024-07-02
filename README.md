@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rishad Islam</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
+<img align="center" src="[https://github-readme-stats.vercel.app/api?username=rishad1404&show_icons=true&locale=en](https://media.licdn.com/dms/image/D5616AQGAznZB4ma1pw/profile-displaybackgroundimage-shrink_350_1400/0/1714727753510?e=1725494400&v=beta&t=mGUn8TRNFXYvsQcn1JvQZzUf72le8YnOfCKuWE_q3b4)" alt="rishad1404" />
+
+<h1>ABout me</h1>
+<hr/>
+<p>Hi there! I'm Rishad, a passionate junior front-end developer with a strong foundation in HTML, CSS, JavaScript, and React. I love crafting clean, responsive, and user-friendly web interfaces. I'm a quick learner, always eager to expand my skill set and tackle new challenges.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
