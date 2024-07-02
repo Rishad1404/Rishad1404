@@ -67,8 +67,8 @@ Hi there! I'm Rishad, a passionate junior front-end developer with a strong foun
 </p>
 
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishad1404&show_icons=true&locale=en" alt="rishad1404" width="full"/></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishad1404&" alt="rishad1404" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishad1404&show_icons=true&locale=en" alt="rishad1404" style="width: 100%; height: 300px;"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishad1404&" alt="rishad1404"  style="width: 100%; height: 300px;"/></p>
 
 
 
