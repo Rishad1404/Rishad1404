@@ -45,12 +45,9 @@ Hi! I am a passionate Full Stack Developer who loves crafting clean, responsive,
 
 <h3 align="center">📈 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishad1404&show_icons=true&theme=transparent&hide_border=true&title_color=0097b2&icon_color=0097b2&text_color=ffffff" alt="Rishad's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishad1404&theme=transparent&hide_border=true&ring=0097b2&fire=0097b2&currStreakLabel=0097b2&text_color=ffffff&dates=ffffff" alt="Rishad's GitHub Streak" height="165"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishad1404&layout=compact&theme=transparent&hide_border=true&title_color=0097b2&text_color=ffffff" alt="Rishad's Top Languages" width="60%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishad1404&show_icons=true&title_color=007bff&icon_color=007bff&text_color=fff&bg_color=1f2328&hide_border=true&include_all_commits=true&count_private=true" alt="Rishad's GitHub Stats" />
+</p>
 
 ---
 
