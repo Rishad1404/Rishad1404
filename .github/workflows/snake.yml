@@ -5,6 +5,10 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+# THIS IS THE FIX: Grants the bot permission to push to your repo
+permissions:
+  contents: write 
+
 jobs:
   build:
     runs-on: ubuntu-latest
