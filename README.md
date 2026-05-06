@@ -47,6 +47,9 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,figma&perline=7" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+</p>
 
 ---
 
@@ -58,12 +61,12 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishad1404&theme=tokyonight&hide_border=true&ring=0097b2&fire=0097b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0097b2&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=rishad1404&theme=tokyonight&hide_border=true&ring=0097b2&fire=0097b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0097b2&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">🐍 My Contribution Graph</h3>
+<h3 align="center">🐍 Contribution Graph</h3>
 
 <p align="center">
   <picture>
