@@ -1,33 +1,45 @@
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co.com/zWq153rg/Rishad-Islam.png" alt="Rishad Islam - Full Stack Developer" width="100%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishad1404&label=Profile%20views&color=0097b2&style=for-the-badge" alt="Profile Views" />
-</p>
+<br/>
 
-<h1 align="center">Hi there, I'm Rishad! 👋</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishad1404&label=Profile%20Views&color=0097b2&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0097B2&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+React;Node.js+%7C+PostgreSQL+%7C+Docker;Building+Scalable+Modern+Apps" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, and robust web applications. From designing intuitive user interfaces to architecting secure backend systems and containerizing deployments — I'm always eager to tackle complex challenges and expand my skill set.
+I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, and robust web applications. From designing intuitive user interfaces to architecting secure backend systems and containerizing deployments — I'm always eager to tackle complex challenges and engineer scalable solutions.
 
-- 🌱 **Currently exploring:** Advanced Next.js architectures and AI integration
-- 💬 **Ask me about:** Next.js, TypeScript, React, Prisma, and Stripe payment integrations
+- 🌱 **Currently exploring:** Advanced Next.js architectures, Docker, and AI integrations.
+- 💬 **Ask me about:** Next.js, TypeScript, React, Prisma, and API development.
 - 📫 **Reach me at:** [rishadislam2019@gmail.com](mailto:rishadislam2019@gmail.com)
 - ⚡ **Fun fact:** When I'm not coding or studying economics, you'll find me hauling cargo across Europe in Euro Truck Simulator 2!
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+### 🚀 Featured Projects
 
-<p align="center"><b>Frontend</b></p>
+* **[ScholarTrack](#)** - An enterprise-grade SaaS scholarship management platform featuring automated Stripe billing, role-based dashboards, and secure cross-domain authentication. *(Next.js 15, PostgreSQL, Stripe)*
+* **[Medicine Corner](#)** - A high-performance full-stack online pharmacy with real-time inventory management, secure checkout pipelines, and instant client-side data filtering. *(Node.js, Express, React)*
+* **[StudyMate](#)** - A comprehensive EdTech MVP with complex relational database mapping and peer-to-peer assignment grading. *(MERN Stack)*
+
+*(Note: Don't forget to link the `#` to your actual GitHub repos!)*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center"><b>Frontend Architecture</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" />
@@ -41,46 +53,45 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
   </a>
 </p>
 
-<p align="center"><b>DevOps & Tools</b></p>
+<p align="center"><b>DevOps & Workflow</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,figma&perline=7" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-</p>
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+### 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rishad1404&show_icons=true&theme=tokyonight&hide_border=true&title_color=0097b2&icon_color=0097b2&bg_color=0d1117&text_color=ffffff" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishad1404&layout=compact&theme=tokyonight&hide_border=true&title_color=0097b2&text_color=ffffff&bg_color=0d1117" height="180" alt="Top Languages" />
 </div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=rishad1404&theme=tokyonight&hide_border=true&ring=0097b2&fire=0097b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0097b2&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-<h3 align="center">🐍 Contribution Graph</h3>
+### 🐍 Contribution Activity
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishad1404/rishad1404/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishad1404/rishad1404/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rishad1404/rishad1404/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
 ---
 
-<h3 align="center">🤝 Let's Connect</h3>
+### 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/rishad-islam14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -93,7 +104,4 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
   <a href="https://fb.com/rishad.islam.9250" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/rishadislaam" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+</div>
