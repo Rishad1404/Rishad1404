@@ -23,6 +23,7 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
 - 🌱 **Currently exploring:** Advanced Next.js architectures, Docker, and AI integrations.
 - 💬 **Ask me about:** Next.js, TypeScript, React, Prisma, and API development.
 - 📫 **Reach me at:** [rishadislam2019@gmail.com](mailto:rishadislam2019@gmail.com)
+- 🌐 **Portfolio:** [rishad-islam.vercel.app](https://rishad-islam.vercel.app)
 - ⚡ **Fun fact:** When I'm not coding or studying economics, you'll find me hauling cargo across Europe in Euro Truck Simulator 2!
 
 ---
@@ -32,8 +33,6 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
 * **[ScholarTrack](#)** - An enterprise-grade SaaS scholarship management platform featuring automated Stripe billing, role-based dashboards, and secure cross-domain authentication. *(Next.js 15, PostgreSQL, Stripe)*
 * **[Medicine Corner](#)** - A high-performance full-stack online pharmacy with real-time inventory management, secure checkout pipelines, and instant client-side data filtering. *(Node.js, Express, React)*
 * **[StudyMate](#)** - A comprehensive EdTech MVP with complex relational database mapping and peer-to-peer assignment grading. *(MERN Stack)*
-
-*(Note: Don't forget to link the `#` to your actual GitHub repos!)*
 
 ---
 
@@ -77,21 +76,12 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishad1404/rishad1404/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishad1404/rishad1404/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rishad1404/rishad1404/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
+  <a href="https://rishad-islam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0097B2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/rishad-islam14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
