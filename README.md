@@ -24,7 +24,7 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
 - 💬 **Ask me about:** Next.js, TypeScript, React, Prisma, and API development.
 - 📫 **Reach me at:** [rishadislam2019@gmail.com](mailto:rishadislam2019@gmail.com)
 - 🌐 **Portfolio:** [rishad-islam.vercel.app](https://rishad-islam.vercel.app)
-- ⚡ **Fun fact:** When I'm not coding or studying economics, you'll find me hauling cargo across Europe in Euro Truck Simulator 2!
+- ⚡ **Fun fact:** When I'm not coding or studying, you'll find me hauling cargo across Europe in Euro Truck Simulator 2!
 
 ---
 
