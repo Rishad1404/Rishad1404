@@ -31,8 +31,9 @@ I'm a passionate **Full Stack Developer** who loves crafting clean, responsive, 
 ### 🚀 Featured Projects
 
 * **[ScholarTrack](#)** - An enterprise-grade SaaS scholarship management platform featuring automated Stripe billing, role-based dashboards, and secure cross-domain authentication. *(Next.js 15, PostgreSQL, Stripe)*
+* **[NutriSync](#)** -A premium AI-powered nutrition ecosystem utilizing Google Gemini for natural language meal analysis, featuring interactive macro-tracking dashboards and an analytical administrative Command Center. *(Next.js 15, Gemini AI, Prisma, PostgreSQL)*
 * **[Medicine Corner](#)** - A high-performance full-stack online pharmacy with real-time inventory management, secure checkout pipelines, and instant client-side data filtering. *(Node.js, Express, React)*
-* **[StudyMate](#)** - A comprehensive EdTech MVP with complex relational database mapping and peer-to-peer assignment grading. *(MERN Stack)*
+
 
 ---
 
